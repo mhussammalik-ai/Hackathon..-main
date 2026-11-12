@@ -1,0 +1,17 @@
+export const COLORS = {
+  primary: '#008069',
+  primaryDark: '#075E54',
+  tealGreen: '#128C7E',
+  lightGreen: '#25D366',
+  appBg: '#FFFFFF',
+  chatBg: '#EFEAE2',
+  outgoingBubble: '#E7FFDB',
+  incomingBubble: '#FFFFFF',
+  textPrimary: '#111B21',
+  textSecondary: '#667781',
+  border: '#E9EDEF',
+  bottomBarBg: '#FFFFFF',
+  activeTab: '#008069',
+  inactiveTab: '#54656F',
+  accent: '#25D366',
+};
